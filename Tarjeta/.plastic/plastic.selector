@@ -2,3 +2,23 @@ repository "Mi_tarjeta_vr@jroquego@cloud"
   path "/"
     br "/main"
     co "/main"
+
+
+repository "Mi_tarjeta_vr@jroquego@cloud"
+  path "/"
+    br "/main"
+    co "/main"
+
+
+
+
+repository "Mi_tarjeta_vr@jroquego@cloud"
+  path "/"
+    br "/main"
+    co "/main"
+
+
+repository "Mi_tarjeta_vr@jroquego@cloud"
+  path "/"
+    br "/main"
+    co "/main"
